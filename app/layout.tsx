@@ -3,8 +3,8 @@ import './globals.css';
 import { Providers } from './providers';
 
 export const metadata: Metadata = {
-  title: 'Task Manager',
-  description: 'A simple task management application',
+  title: 'To Do List',
+  description: 'A simple to-do list application',
 };
 
 export default function RootLayout({

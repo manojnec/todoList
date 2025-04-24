@@ -5,7 +5,7 @@ export default function Home() {
     <main className="main-background">
       <div className="container">
         <h1 className="text-center text-white text-3xl font-bold mb-8">
-          Task Manager
+          To Do List
         </h1>
         <TodoApp />
       </div>
