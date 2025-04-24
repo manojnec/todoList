@@ -21,7 +21,7 @@ export default function TodoForm({ addTodo }: TodoFormProps) {
         type="text"
         value={text}
         onChange={(e) => setText(e.target.value)}
-        placeholder="Add a new task..."
+        placeholder="Add a new to-do..."
         className="input"
       />
       <button
